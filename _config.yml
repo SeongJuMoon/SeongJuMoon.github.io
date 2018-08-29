@@ -1,5 +1,5 @@
 title: Hello, world! I'm David Freeman
-description: > SeongJuMoon Blog
+description: SeongJuMoon Blog
 permalink: ':title/'
 baseurl : ''
 # baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
