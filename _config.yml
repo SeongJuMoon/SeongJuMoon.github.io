@@ -1,23 +1,23 @@
-title: Hello, world! I'm David Freeman
-description: SeongJuMoon Blog
-permalink: ':title/'
-baseurl : ''
+title: "Hello, world! I'm David Freeman"
+description: "SeongJuMoon Blog"
+permalink: ":title/"
+baseurl : ""
 # baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: SeongJu Moon # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: 신입 백엔드 개발자 입니다.  # add description
+author: "SeongJu Moon" # add your name
+author-img: "david-freeman.jpg" # add your photo
+about-author: "신입 백엔드 개발자 입니다."  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: seongjuMoon # add your Github handle
+social-github: "seongjuMoon" # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: seongjumoon # add your discus identifier
+discus-identifier: "disqus_A1ggJTydB3" # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
