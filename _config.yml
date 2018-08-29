@@ -1,4 +1,4 @@
-title: "Hello, world! I'm David Freeman"
+title: "성주의 잡다한 기술 블로그"
 description: "SeongJuMoon Blog"
 permalink: ":title/"
 baseurl : ""
@@ -17,7 +17,7 @@ social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: "disqus_A1ggJTydB3" # add your discus identifier
+discus-identifier: "seongjumoon-blog" # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
